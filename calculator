@@ -10,3 +10,5 @@ cout << "The product of two numbers is: " << a*b << endl;
 cout << "The division of two numbers is: " << a/b << endl;
 return 0;
 }
+Muammad Zaid Riaz
+23-st-041.
